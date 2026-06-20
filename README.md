@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="public/logo.png" alt="SensAI Logo" width="220"/>
+<img src="public/logo.png" alt="Teerthankar AI Logo" width="500"/>
 
-# SensAI — Your AI-Powered Career Coach
+# Teerthankar AI — Your AI-Powered Career Coach
 
 **Supercharge your career with AI-driven mock interviews, resume building, cover letter generation, and real-time industry insights.**
 
@@ -149,7 +149,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📁 Project Structure
 
 ```
-sensai/
+teerthankarai/
 ├── app/
 │   ├── (auth)/          # Sign-in / Sign-up pages
 │   ├── (main)/          # Protected app pages
