@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/logo.png" alt="Teerthankar AI Logo" width="500"/>
+<img src="public/teerthankarai-logo.png" alt="Teerthankar AI Logo" width="500"/>
 
 # Teerthankar AI — Your AI-Powered Career Coach
 
